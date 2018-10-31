@@ -11,4 +11,11 @@ export class HomePage {
 
   }
 
+irParaNoticias(){
+
+
+  this.navCtrl.setRoot('NoticiasPage');
+}
+
+
 }
