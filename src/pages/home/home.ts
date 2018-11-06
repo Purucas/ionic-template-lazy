@@ -18,4 +18,10 @@ irParaNoticias(){
 }
 
 
+irParaCadastro(){
+
+
+  this.navCtrl.push('CadastroPage');
+}
+
 }
